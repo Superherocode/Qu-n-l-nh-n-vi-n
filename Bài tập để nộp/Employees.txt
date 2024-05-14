@@ -1,0 +1,38 @@
+[
+  {
+    "Position": "Manager",
+    "Description": null,
+    "Start": "2024-04-19T19:28:21.7747746+07:00",
+    "Id": "abc",
+    "Name": "ABC",
+    "Birth": "2004-03-08T23:42:39",
+    "Gmail": "ab@gmail.com",
+    "Phone": "213",
+    "Iddepartment": "KT",
+    "Gender": "Male"
+  },
+  {
+    "Position": "Employee",
+    "Description": null,
+    "Start": "2024-04-19T19:28:50.9129366+07:00",
+    "Id": "2q\u01B0e",
+    "Name": "EWF",
+    "Birth": "2020-02-18T19:28:50",
+    "Gmail": "\u1EEBe",
+    "Phone": "485",
+    "Iddepartment": "GS",
+    "Gender": "Male"
+  },
+  {
+    "Position": "Employee",
+    "Description": null,
+    "Start": "2024-04-19T19:29:12.895952+07:00",
+    "Id": "mmm",
+    "Name": "HHH",
+    "Birth": "2024-04-08T19:29:12",
+    "Gmail": "ffff",
+    "Phone": "243",
+    "Iddepartment": "GS",
+    "Gender": "Female"
+  }
+]

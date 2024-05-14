@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "nuuuu",
+    "Name": "DFAD",
+    "Position": "Employee",
+    "Iddepartment": "BV",
+    "Increase": 0,
+    "Salary": 0,
+    "Bonus": 0,
+    "Dayoff": 0,
+    "Start": "2024-04-18T15:22:17.2464479+07:00",
+    "Total": 0
+  }
+]

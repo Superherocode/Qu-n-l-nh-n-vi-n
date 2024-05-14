@@ -1,0 +1,6 @@
+{
+  "Id": "MKT",
+  "Name": "Marketing",
+  "Manager": null,
+  "Listemployees": []
+}

@@ -1,0 +1,62 @@
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\OOPWF.exe.config
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\OOPWF.exe
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\OOPWF.pdb
+D:\Bài tập để nộp\OOPWF\OOPWF\obj\Debug\OOPWF.csproj.AssemblyReference.cache
+D:\Bài tập để nộp\OOPWF\OOPWF\obj\Debug\OOPWF.Form1.resources
+D:\Bài tập để nộp\OOPWF\OOPWF\obj\Debug\OOPWF.Properties.Resources.resources
+D:\Bài tập để nộp\OOPWF\OOPWF\obj\Debug\OOPWF.csproj.GenerateResource.cache
+D:\Bài tập để nộp\OOPWF\OOPWF\obj\Debug\OOPWF.csproj.CoreCompileInputs.cache
+D:\Bài tập để nộp\OOPWF\OOPWF\obj\Debug\OOPWF.exe
+D:\Bài tập để nộp\OOPWF\OOPWF\obj\Debug\OOPWF.pdb
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\Newtonsoft.Json.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Buffers.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Memory.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Numerics.Vectors.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Text.Encodings.Web.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Text.Json.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.ValueTuple.dll
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\Newtonsoft.Json.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Buffers.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Memory.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Numerics.Vectors.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Text.Encodings.Web.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Text.Json.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\bin\Debug\System.ValueTuple.xml
+D:\Bài tập để nộp\OOPWF\OOPWF\obj\Debug\OOPWF.csproj.Up2Date
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\OOPWF.exe.config
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\OOPWF.exe
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\OOPWF.pdb
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\Newtonsoft.Json.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Buffers.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Memory.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Numerics.Vectors.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Text.Encodings.Web.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Text.Json.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.ValueTuple.dll
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\Newtonsoft.Json.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Buffers.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Memory.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Numerics.Vectors.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Text.Encodings.Web.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Text.Json.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\bin\Debug\System.ValueTuple.xml
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\obj\Debug\OOPWF.csproj.AssemblyReference.cache
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\obj\Debug\OOPWF.Form1.resources
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\obj\Debug\OOPWF.Properties.Resources.resources
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\obj\Debug\OOPWF.csproj.GenerateResource.cache
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\obj\Debug\OOPWF.csproj.CoreCompileInputs.cache
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\obj\Debug\OOPWF.csproj.Up2Date
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\obj\Debug\OOPWF.exe
+D:\Đại học UEH\Học kỳ 4 UEH\Lập trình hướng đối tượng\đồ án cuối kì\QuanLyNhanSu\OOPWF\obj\Debug\OOPWF.pdb

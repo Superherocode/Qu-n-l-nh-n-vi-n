@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "abc",
+    "Name": "ABC",
+    "Position": "Manager",
+    "Iddepartment": "GS",
+    "Increase": 0,
+    "Salary": 9500000,
+    "Bonus": 0,
+    "Dayoff": 0,
+    "Start": "2024-04-18T15:21:53.6651037+07:00",
+    "Total": 11400000
+  },
+  {
+    "Id": "abc",
+    "Name": "ABC",
+    "Position": "Manager",
+    "Iddepartment": "GS",
+    "Increase": 0,
+    "Salary": 9500000,
+    "Bonus": 0,
+    "Dayoff": 0,
+    "Start": "2024-04-18T15:21:53.6651037+07:00",
+    "Total": 11400000
+  },
+  {
+    "Id": "abc",
+    "Name": "ABC",
+    "Position": "Manager",
+    "Iddepartment": "GS",
+    "Increase": 0,
+    "Salary": 9500000,
+    "Bonus": 0,
+    "Dayoff": 0,
+    "Start": "2024-04-18T15:21:53.6651037+07:00",
+    "Total": 11400000
+  },
+  {
+    "Id": "abc",
+    "Name": "ABC",
+    "Position": "Manager",
+    "Iddepartment": "GS",
+    "Increase": 0,
+    "Salary": 0,
+    "Bonus": 0,
+    "Dayoff": 0,
+    "Start": "2024-04-18T15:21:53.6651037+07:00",
+    "Total": 0
+  }
+]

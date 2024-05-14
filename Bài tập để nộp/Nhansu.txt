@@ -1,0 +1,6 @@
+{
+  "Id": "NS",
+  "Name": "Nh\u00E2n s\u1EF1",
+  "Manager": null,
+  "Listemployees": []
+}
