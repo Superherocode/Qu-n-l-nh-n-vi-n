@@ -1,0 +1,14 @@
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\bin\Debug\Database1.mdf
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\bin\Debug\Database1_log.ldf
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\bin\Debug\Login_sign.exe.config
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\bin\Debug\Login_sign.exe
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\bin\Debug\Login_sign.pdb
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\obj\Debug\Login_sign.csproj.AssemblyReference.cache
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\obj\Debug\Login_sign.frmFogotPassword.resources
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\obj\Debug\Login_sign.frmRegister.resources
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\obj\Debug\Login_sign.frmLogin.resources
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\obj\Debug\Login_sign.Properties.Resources.resources
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\obj\Debug\Login_sign.csproj.GenerateResource.cache
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\obj\Debug\Login_sign.csproj.CoreCompileInputs.cache
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\obj\Debug\Login_sign.exe
+D:\Học lập trình\C#\music_C#\Login_sign\Login_sign\obj\Debug\Login_sign.pdb
